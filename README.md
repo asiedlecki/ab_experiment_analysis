@@ -1,4 +1,10 @@
 # AB experiment anlysis
+tools used for the analysis:
+- python 3.8
+- jupyter notebook
+- pyspark 2.4.7
+- pandas
+- scipy
 
 ![AB experiment description](photos/experiment_description.png?raw=true "AB experiment description")
 
