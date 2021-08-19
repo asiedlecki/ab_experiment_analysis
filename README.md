@@ -2,7 +2,7 @@
 tools used for the analysis:
 - python 3.8
 - jupyter notebook
-- pyspark 2.4.7
+- pyspark 3.1.2
 - pandas
 - scipy
 
